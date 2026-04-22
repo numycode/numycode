@@ -1,4 +1,11 @@
 ## Hi there 👋
+#### I'm numycode.
+I'm a @hackclub member, and mostly develop in basic HTML/CSS, and Python (still learning both)
+I would say "shoot me a DM in the Hack Club Slack," but I can't respond, so do whatever I guess.
+My hackatime stats:
+<br>
+<br>
+![My probably pathetic hackatime statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=25359&api_domain=hackatime.hackclub.com&theme=shadow_blue&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--
 **numycode/numycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
