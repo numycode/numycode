@@ -1,6 +1,6 @@
 ## Hi :)
 #### I'm numycode.
-I'm a [Hack Club](https://github.com/hackclub) member, and mostly develop in basic HTML/CSS, and Python (still learning both).<br>
+I'm a [Hack Club](https://github.com/hackclub) member, and mostly develop in HTML/CSS, and Python (still learning both).<br>
 I would say "shoot me a DM in the Hack Club Slack," but I can't respond, so do whatever I guess.<br>
 Some of my projects include [Join The Blahaj](https://github.com/numycode/jointheblahaj), [numycode.dev](https://github.com/numycode/numycode.dev), and more!<br>
 <br>
