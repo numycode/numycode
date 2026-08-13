@@ -2,10 +2,12 @@
 #### I'm numycode.
 I'm a [Hack Club](https://github.com/hackclub) member, and mostly develop in basic HTML/CSS, and Python (still learning both).<br>
 I would say "shoot me a DM in the Hack Club Slack," but I can't respond, so do whatever I guess.<br>
+Some of my projects include [Join The Blahaj](https://github.com/numycode/jointheblahaj), [numycode.dev](https://github.com/numycode/numycode.dev), and more!<br>
+<br>
 My hackatime stats:
 <br>
 <br>
-![My probably pathetic hackatime statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=25359&api_domain=hackatime.hackclub.com&theme=shadow_blue&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![My hackatime statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=25359&api_domain=hackatime.hackclub.com&theme=shadow_blue&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--
 **numycode/numycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
